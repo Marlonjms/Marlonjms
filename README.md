@@ -26,8 +26,8 @@ Sou Marlon José, estudante de **Back-end** e apaixonado por tecnologia 🚀
 
 ---
 
-### 🐍 Atividade  
-![Snake animation](https://github.com/Marlonjms/Marlonjms/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ---
 
